@@ -18,10 +18,16 @@ body {
   background-color: rgb(227, 224, 217);
 }
 
+
 .tree{
-    width:50vw
+    width:45vw
 }
-    
+
+
+button {
+    background-color:#FFFFFF00;
+    border:none;
+}
 
 
 
